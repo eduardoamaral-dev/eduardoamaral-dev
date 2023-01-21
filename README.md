@@ -33,7 +33,7 @@
 <br/>
 <br/>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Oi meu nome é <a href="https://eduardoamaral.netlify.app/" target="_blank">Eduardo Amaral</a> </h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi! I am <a href="https://eduardoamaral.netlify.app/" target="_blank">Eduardo Amaral</a> </h1></img>
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-<h3 align="center">Fale comigo:</h3>
+<h3 align="center">Contact:</h3>
 
 <p align="center">
   <a href="mailto:eduardo.lopes.amaral@outlook.com?subject=subject">
