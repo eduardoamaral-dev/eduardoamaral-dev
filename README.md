@@ -1,34 +1,32 @@
 ![banner](https://user-images.githubusercontent.com/89494820/158089202-340b4bbd-1749-4ca9-bb0e-550830df1303.png)
 
-  <p align="center">
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <span align="center">
+   <p>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+   </span>
+   <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-   </a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+   </span>
+   <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   </a>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-   <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" with="40" height="40" />
-   </a>
-   <a href="https://nodejs.org">
+   </span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
+     <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
+   </span>
+ 
+   <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-   </a>
-  <a href="https://getbootstrap.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
-   </a>
-   <a href="https://angular.io/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="bootstrap" width="40" height="40"/>
-   </a>
-   <a>
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mongodb" width="40" height="40"/>
-   </a>
-   <a href="https://git-scm.com/">
+   </span>
+  <span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+   </span>
+   <span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="bootstrap" width="40" height="40"/>   
+   </span>
+   <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-   </a>
+   </span>
 
 <br/>
 <br/>
