@@ -35,16 +35,8 @@
 
 
 
-<h3 align="center">Sobre mim:</h3>
-<p>Me chamo Eduardo Lopes do Amaral, nasci em Porto Alegre(RS), e sou um apaixonado por tecnologia, mais especificamente pela área de desenvolvimento de
-  software. No momento, sou capaz de trabalhar com HTML, CSS, Javascript, Node+Express, React, e algumas outras tecnologias Front End. Possuo 900 horas de curso sobre desenvolvimento web da instituição
-  norte americana FreeCodeCamp.
-  Ademais, iniciarei em breve o curso superior em Análise e Desenvolvimento de Sistemas.</p>
-
-
-
-
-
+<h3 align="center">About me:</h3>
+<p>Hi! My name is Eduardo Amaral, I am a passionated for creative and solutions design patterns, I work currently as a Full Stack developer (but one day I'll be a Software Architect.</p>
 
 <h3 align="center">Contact:</h3>
 
