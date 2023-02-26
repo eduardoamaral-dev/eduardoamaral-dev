@@ -36,7 +36,7 @@
 
 
 <h3 align="center">About me:</h3>
-<p>Hi! My name is Eduardo Amaral, I am a passionated for creative and solutions design patterns, I work currently as a Full Stack developer (but one day I'll be a Software Architect.</p>
+<p>Hi! My name is Eduardo Amaral, I am a passionated for creative solutions design patterns, I work currently as a Full Stack developer (but one day I'll be a Software Architect.</p>
 
 <h3 align="center">Contact:</h3>
 
