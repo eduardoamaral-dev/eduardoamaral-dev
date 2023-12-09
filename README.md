@@ -1,33 +1,26 @@
-![banner](https://user-images.githubusercontent.com/89494820/158089202-340b4bbd-1749-4ca9-bb0e-550830df1303.png)
+![banner](https://github.com/eduardoamaral-dev/eduardoamaral-dev/assets/116197292/3cbe18e1-c665-47df-a37f-f4eaedfd2703)
 
-  <span align="center">
+  <span align="center">[](url)
    <p>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-   </span>
-   <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
+     <span>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+     </span>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="html5" width="40" height="40"/>
    </span>
    <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
    </span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40" />
-     <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
-   </span>
- 
+
    <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
    </span>
-  <span>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="git" width="40" height="40" />
-   </span>
    <span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="bootstrap" width="40" height="40"/>   
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
    </span>
    <span>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
    </span>
-
 <br/>
 <br/>
 
@@ -36,7 +29,7 @@
 
 
 <h3 align="center">About me:</h3>
-<p>Hi! My name is Eduardo Amaral, I am a passionated for creative solutions, design patterns and web development, I work currently as a Full Stack developer (but one day I'll be a Software Architect.</p>
+<p>Hi! My name is Eduardo Amaral, I am a passionated for creative solutions, clean code, design patterns and web development.</p>
 
 <h3 align="center">Contact:</h3>
 
