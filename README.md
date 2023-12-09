@@ -1,6 +1,6 @@
 ![banner](https://github.com/eduardoamaral-dev/eduardoamaral-dev/assets/116197292/3cbe18e1-c665-47df-a37f-f4eaedfd2703)
 
-  <span align="center">[](url)
+  <span align="center">
    <p>
      <span>
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
