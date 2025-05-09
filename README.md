@@ -29,7 +29,7 @@
 
 
 <h3 align="center">About me:</h3>
-<p>Hi! My name is Eduardo Amaral, I am a passionated for creative solutions, clean code, design patterns and web development.</p>
+<p>Hi! My name is Eduardo Amaral, I am a passionate for creative solutions, clean code, design patterns and web development.</p>
 
 <h3 align="center">Contact:</h3>
 
