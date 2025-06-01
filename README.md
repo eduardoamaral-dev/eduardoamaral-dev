@@ -53,7 +53,6 @@
   </a>
  
 </p>
-<a href="https://eduardoamaral.netlify.app/" target="_blank"><h5 align="center">Acesse o meu portfólio</a> </h5> 
 
 
 
